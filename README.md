@@ -1,6 +1,6 @@
 # 🧮 Electron Calculator
 
-<img src="calculator/calculator.png" alt="Screenshot" width="200" height="auto">
+<img src="calculator/calculator.png" alt="Screenshot" width="300" height="auto">
 
 Ein **moderner, responsiver Taschenrechner** gebaut mit **Electron**, **HTML**, **CSS** und **JavaScript**.  
 Unterstützt sowohl **Mausklicks** als auch **Tastatureingaben** und passt sich flexibel an die Fenstergröße an.
