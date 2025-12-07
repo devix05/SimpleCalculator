@@ -23,7 +23,7 @@ Unterstützt sowohl **Mausklicks** als auch **Tastatureingaben** und passt sich 
 ### 3. App bauen (EXE für Windows)
 
 ```bash
-git clone https://github.com/devix05/simplecalculator.git
+git clone https://github.com/devix05/SimpleCalculator.git
 cd electron-calculator
 
 npm install
