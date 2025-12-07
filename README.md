@@ -24,7 +24,7 @@ Unterstützt sowohl **Mausklicks** als auch **Tastatureingaben** und passt sich 
 
 ```bash
 git clone https://github.com/devix05/SimpleCalculator.git
-cd electron-calculator
+cd calculator
 
 npm install
 
