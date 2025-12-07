@@ -8,7 +8,7 @@
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "com.devix05.todoapp",
+    "appId": "com.devix05.calculator",
     "win": {
       "target": "nsis",
       "icon": "icon.png"
